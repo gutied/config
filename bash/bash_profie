@@ -1,0 +1,3 @@
+[[ -s ~/.bashrc ]] && source ~/.bashrc # This is for iterm to load propely the .bash_profile and .bashrc files
+
+test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
