@@ -1,7 +1,7 @@
 
 # PROMPT configuriation - begin
-source ~/git-completion.bash
-source ~/usr/local/git/contrib/completion/git-prompt.sh
+source ~/.git-completition.bash
+source ~/.git-prompt.sh
 source .bash_prompt
 
 PATH=/usr/local/bin:$PATH
